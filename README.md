@@ -2,7 +2,7 @@
 
 
 dependencies  
-`pip install "gymnasium[classic_control]"
+`pip install "gymnasium[classic_control]"  
 pip install matplotlib  `
 
 part2:
