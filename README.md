@@ -23,5 +23,5 @@ trainer:負責從環境傳入的觀察域與行為域進行表格訓練
 warehouse_robot:定義機器人的移動行為
 
 usage:
-python3 main.py
+`python3 main.py`
 
