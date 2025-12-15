@@ -1,5 +1,10 @@
 # oop-finalproject-team6
 
+
+#dependencies  
+`pip install "gymnasium[classic_control]"  
+pip install matplotlib  `
+
 part2:
 
 usage:  
