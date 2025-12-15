@@ -25,3 +25,7 @@ warehouse_robot:定義機器人的移動行為
 usage:
 `python3 main.py`
 
+contribution table:
+戴維佑：part2, UML diagram
+張韶軒：part3
+王勁詠：reflection report, slide
