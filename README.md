@@ -13,9 +13,13 @@ part3:
 
 程式簡介:
 grid_map:定義了地圖中所有物件的位置
+
 grid_object:定義物件的base class以及derived class，包含障礙物、傳送帶以及目的地
+
 robot_env:繼承自gym，定義了觀察域與行為域
+
 trainer:負責從環境傳入的觀察域與行為域進行表格訓練
+
 warehouse_robot:定義機器人的移動行為
 
 usage:
