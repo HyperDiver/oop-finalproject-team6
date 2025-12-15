@@ -1,7 +1,7 @@
 # oop-finalproject-team6
 
 
-dependencies  
+```dependencies  
 `pip install "gymnasium[classic_control]"`  
 `pip install matplotlib`    
 
